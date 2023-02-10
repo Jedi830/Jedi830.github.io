@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 
 body {
-    font-family: 'Itim', sans-serif
+    font-family: 'Itim';
+    background-color: blac;
+    text-decoration: white;
 }
 p {
     text-decoration: underline;
