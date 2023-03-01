@@ -2,18 +2,27 @@
 
 body {
     font-family: 'Itim';
-    background-color: blac;
+    background-color: #ff99a6;
     text-decoration: white;
 }
 p {
     text-decoration: underline;
 }
 nav {
-    background-color: #6cb5b9;
+    background-color: #0fff50;
+    position: sticky;
+    top: 0;
+    text-align: center;
 }
 nav > a {
-    color: aqua;
+    color: #e0115f;
     text-decoration: none;
     padding: 8px 12px;
     display: inline-table;
+}
+nav > a:hover {
+    text-decoration: underline;
+}
+@media screen and (max-width: 480px) {
+    
 }
