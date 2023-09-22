@@ -4,8 +4,11 @@ body {
     font-family: 'Itim';
     background-color: #ff99a6;
     text-decoration: white;
-    background-image: url(duotone\ \(1\).png);
+    background-image: url(duotone\ \(2\).png);
+    background-attachment:fixed;
+    background-size: 100%;
     text-align: center;
+
 }
 p {
     text-decoration: underline;
